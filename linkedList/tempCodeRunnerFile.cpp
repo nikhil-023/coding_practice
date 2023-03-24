@@ -1,0 +1,2 @@
+delLast(head);
+    // printList(head);
